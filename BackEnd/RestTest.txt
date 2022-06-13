@@ -1,0 +1,10 @@
+POST http://localhost:5001/checkout HTTP/1.1
+content-type: application/json
+
+{
+    "items": [{"id": "xKbe7RX05UFjGbK5", "quantity": "30"},{"id": "fbVhsZJfn9kWjdgc", "quantity": "30"} ]
+}
+
+###################
+
+GET http://localhost:5002/itemsss HTTP/1.1
