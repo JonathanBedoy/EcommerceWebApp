@@ -34,9 +34,9 @@ Install the dependencies and devDependencies and start the server (more info in 
 MIT
 
 [//]: #
-   [BootstrapVue]: [https://bootstrap-vue.org](https://bootstrap-vue.org)
-   [node.js]: [http://nodejs.org](http://nodejs.org)
-   [NeDB]: [https://github.com/louischatriot/nedb](https://github.com/louischatriot/nedb)
-   [PayPal Rest SDK]: [https://www.npmjs.com/package/paypal-rest-sdk](https://www.npmjs.com/package/paypal-rest-sdk)
-   [express]: [http://expressjs.com](http://expressjs.com)
-   [Vue Js]: [https://vuejs.org](https://vuejs.org)
+   [BootstrapVue]: <https://bootstrap-vue.org>
+   [node.js]: <http://nodejs.org>
+   [NeDB]: <https://github.com/louischatriot/nedb>
+   [PayPal Rest SDK]: <https://www.npmjs.com/package/paypal-rest-sdk>
+   [express]: <http://expressjs.com>
+   [Vue Js]: <https://vuejs.org>
