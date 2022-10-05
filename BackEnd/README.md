@@ -6,7 +6,7 @@
 
 #### Requirements:
 
-- Requires the a FrontEnd build to be put inside ``/public`` (more info on how to build the frontend located at ``../FrontEnd``).
+- Requires a FrontEnd build to be put inside ``/public`` (more info on how to build the frontend located at ``../FrontEnd``).
 - Must Fill out the ``.env`` file.
   - `` PAYPAL_CLIENT_ID=``
   - `` PAYPAL_SECRET_ID=``
